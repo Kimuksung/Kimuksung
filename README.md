@@ -6,9 +6,9 @@
   
 Algorithm = https://dortmoot.tistory.com/category/Algorithm
 
-OS = https://github.com/Kimuksung/Xv6/blob/master/README.md
-
-Docker&Airflow = https://github.com/Kimuksung/Docker_Airflow
+OS = https://github.com/Kimuksung/Xv6#readme
+  
+Docker&Airflow = https://github.com/Kimuksung/Docker_Airflow#readme
 
 DB = https://dortmoot.tistory.com/manage/posts?category=1042678
 
