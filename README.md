@@ -1,16 +1,21 @@
 👋 Kimuksung GitHub
 
-👀 Algorithm / Python / OS(xv6) / Docker / Airflow / DB(Postgre,Mssql,mysql,sqllite) else
+👀 I'm into Algorithm / Python / OS(xv6) / Docker / Airflow / DB(Postgre,Mssql,mysql,sqllite) else
 
-<My tistory Link>
+<My tistory,github Link>
   
-Algorithm = https://dortmoot.tistory.com/category/Algorithm
+# Algorithm Link
+https://dortmoot.tistory.com/category/Algorithm
+https://github.com/Kimuksung/codewars-programmers
 
-OS = https://github.com/Kimuksung/Xv6#readme
+# OS
+https://github.com/Kimuksung/Xv6#readme
   
-Docker&Airflow = https://github.com/Kimuksung/Docker_Airflow#readme
+# Docker&Airflow 
+https://github.com/Kimuksung/Docker_Airflow#readme
 
-DB = https://dortmoot.tistory.com/manage/posts?category=1042678
+# DB
+https://dortmoot.tistory.com/manage/posts?category=1042678
 
 <!---
 Kimuksung/Kimuksung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
