@@ -15,7 +15,7 @@ https://github.com/Kimuksung/Xv6#readme
 # Docker&Airflow 
 https://github.com/Kimuksung/Docker_Airflow#readme
 
-# DB[
+# DB
 https://dortmoot.tistory.com/category/CS/DB
 
 <!---
