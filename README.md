@@ -15,8 +15,8 @@ https://github.com/Kimuksung/Xv6#readme
 # Docker&Airflow 
 https://github.com/Kimuksung/Docker_Airflow#readme
 
-# DB
-https://dortmoot.tistory.com/manage/posts?category=1042678
+# DB[
+https://dortmoot.tistory.com/category/CS/DB
 
 <!---
 Kimuksung/Kimuksung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
