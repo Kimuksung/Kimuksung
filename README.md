@@ -1,6 +1,7 @@
 👋 Kimuksung GitHub
 
-👀 I'm into Algorithm / Python / OS(xv6) / Docker / Airflow / DB(Postgre,Mssql,mysql,sqllite) else
+👀 Data Engineer
+-> I'm into Algorithm / Python / OS(xv6) / Docker / Airflow / DB(Postgre,Mssql,mysql,sqllite) else
 
 <My tistory,github Link>
   
