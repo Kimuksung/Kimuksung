@@ -49,3 +49,7 @@ I want to work as a Data Engineer.
 - [DB](https://dortmoot.tistory.com/category/CS/DB)   
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
+
+📚 I’m currently preparing...
+- Big Data with Kafka 
+- K8S
