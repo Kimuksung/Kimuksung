@@ -28,7 +28,6 @@ I want to work as a Data Engineer.
       - Mssql
       - Python
       - C#
-      - Window
 
 💻 <b>Other Experiences (Before Graduation)</b>
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
