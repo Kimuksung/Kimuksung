@@ -21,8 +21,6 @@ I want to work as a Data Engineer.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimuksung)](https://github.com/Kimuksung)  
 </div>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
-
 💻 <b>Work Experiences</b>
 - Danal / 2021.02.01 - 2022.04.09
   - Data labs, Payment info team - ETL and Develop payment service[Virtual Account,gift card,Paycoin,Card,Kakaopay,Payco..]
@@ -49,3 +47,5 @@ I want to work as a Data Engineer.
 - [Docker&Airflow](https://github.com/Kimuksung/Docker_Airflow#readme)   
 - [Kafka](https://github.com/Kimuksung/Kafka/blob/main/README.md)   
 - [DB](https://dortmoot.tistory.com/category/CS/DB)   
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
