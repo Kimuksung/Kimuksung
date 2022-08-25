@@ -17,6 +17,7 @@ I want to work as a Data Engineer.
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
 
 📊 <b>GitHub Stats</b>   
