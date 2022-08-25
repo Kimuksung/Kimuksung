@@ -14,6 +14,9 @@ I want to work as a Data Engineer.
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
 
 📊 <b>GitHub Stats</b>   
@@ -42,13 +45,14 @@ I want to work as a Data Engineer.
 - [Python](https://github.com/Kimuksung/codewars-programmers#readme)   
 - [Algorithm](https://dortmoot.tistory.com/category/Algorithm)   
 - [Baekjoon&Programmer&Codewars](https://github.com/Kimuksung/codewars-programmers)   
+- [Airflow&Docker](https://github.com/Kimuksung/Docker_Airflow#readme)   
+- [Kafka&Elasticserach&kibana&logstash](https://github.com/Kimuksung/Kafka/blob/main/README.md)   
 - [OS](https://github.com/Kimuksung/Xv6#readme)
-- [Docker&Airflow](https://github.com/Kimuksung/Docker_Airflow#readme)   
-- [Kafka](https://github.com/Kimuksung/Kafka/blob/main/README.md)   
 - [DB](https://dortmoot.tistory.com/category/CS/DB)   
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
 
 📚 I’m currently preparing...
-- Big Data with Kafka 
+- Kafka
+- ELK
 - K8S
