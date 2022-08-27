@@ -27,11 +27,10 @@ I want to work as a Data Engineer.
 
 💻 <b>Work Experiences</b>
 - Danal / 2021.02.01 - 2022.04.09
-  - Data labs, Payment info team - ETL and Develop payment service[Virtual Account,gift card,Paycoin,Card,Kakaopay,Payco..]
+  - Data labs, Payment info team - ETL and Develop payment service[Virtual Account,gift card,Paycoin,Credit Card,Kakaopay,Payco..]
     - Tech stacks
       - Mssql
       - Python
-      - C#
 
 💻 <b>Other Experiences (Before Graduation)</b>
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
@@ -42,18 +41,14 @@ I want to work as a Data Engineer.
 - Big data platform expert training course using Python and R
   - 2020.02 ~ 2020.07
 
-🌱 <b>I’m currently learning...</b>   
-- [Python](https://github.com/Kimuksung/codewars-programmers#readme)   
-- [Algorithm](https://dortmoot.tistory.com/category/Algorithm)   
-- [Baekjoon&Programmer&Codewars](https://github.com/Kimuksung/codewars-programmers)   
-- [Airflow&Docker](https://github.com/Kimuksung/Docker_Airflow#readme)   
-- [Kafka&Elasticserach&kibana&logstash](https://github.com/Kimuksung/Kafka/blob/main/README.md)   
-- [OS](https://github.com/Kimuksung/Xv6#readme)
-- [DB](https://dortmoot.tistory.com/category/CS/DB)   
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
+🌱 <b>I’m currently learning...</b>    
+- Docker
+- Airflow
+- Kafka
+- ELK(Elasticserach&kibana&logstash)
 
 📚 I’m currently preparing...
-- Kafka
-- ELK
-- K8S
+- grafana
+- Kubernetes
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
