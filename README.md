@@ -6,9 +6,9 @@
 👋 <b>Hello, I am Uksung Kim (김욱성).</b>   
 
 👀 <b>Data Engineer</b>   
-I want to work as a Data Engineer.
+I want to work as a Data Engineer.   
 
-💻 <b>Tech Stack&Interest</b>
+💻 <b>Tech Stack&Interest</b>   
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
@@ -45,9 +45,9 @@ I want to work as a Data Engineer.
 - Docker
 - Airflow
 - Kafka
-- ELK(Elasticserach&kibana&logstash)
+- ELK(Elasticserach&kibana&logstash)   
 
-📚 I’m currently preparing...
+📚 I’m currently preparing...   
 - grafana
 - Kubernetes
 
