@@ -42,10 +42,10 @@ I want to work as a Data Engineer.
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
-- Docker
-- Airflow
-- Kafka
-- ELK(Elasticserach&kibana&logstash)   
+- [Docker](https://github.com/Kimuksung/Docker_Airflow)
+- [Airflow](https://github.com/Kimuksung/Docker_Airflow)
+- [Kafka](https://github.com/Kimuksung/Kafka)
+- [ELK(Elasticserach&kibana&logstash)](https://github.com/Kimuksung/Kafka)   
 
 📚 I’m currently preparing...   
 - grafana
