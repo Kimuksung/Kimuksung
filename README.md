@@ -49,6 +49,8 @@ I want to work as a Data Engineer.
 
 📚 I’m currently preparing...   
 - grafana
+- Hadoop
+- Spark
 - Kubernetes
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
