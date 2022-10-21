@@ -6,7 +6,7 @@
 👋 <b>Hello, I am Uksung Kim (김욱성).</b>   
 
 👀 <b>Data Engineer</b>   
-I want to work as a Data Engineer.   
+I work as a Data Engineer.   
 
 💻 <b>Tech Stack&Interest</b>   
 
@@ -18,6 +18,8 @@ I want to work as a Data Engineer.
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
 
 📊 <b>GitHub Stats</b>   
@@ -31,6 +33,12 @@ I want to work as a Data Engineer.
     - Tech stacks
       - Mssql
       - Python
+- WClub / 2022.10.12 - working
+  - Data Engineer
+    - Teck stacks
+      - MongoDB
+      - hevo data
+      - Amazon Redshift
 
 💻 <b>Other Experiences (Before Graduation)</b>
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
@@ -48,9 +56,8 @@ I want to work as a Data Engineer.
 - [ELK(Elasticserach&kibana&logstash)](https://github.com/Kimuksung/Kafka)   
 
 📚 I’m currently preparing...   
-- grafana
-- Hadoop
+- MongoDB
+- Redshift
 - Spark
-- Kubernetes
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
