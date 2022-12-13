@@ -35,10 +35,14 @@ I work as a Data Engineer.
       - Python
 - WClub / 2022.10.12 - working
   - Data Engineer
+    - Amazon Airflow,Redshift,S3 Environment setting
+    - Building a Batch Pipeline
     - Teck stacks
+      - Python
       - MongoDB
-      - hevo data
+      - Airflow
       - Amazon Redshift
+      - Amazon S3
 
 💻 <b>Other Experiences (Before Graduation)</b>
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
@@ -50,14 +54,11 @@ I work as a Data Engineer.
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
-- [Docker](https://github.com/Kimuksung/Docker_Airflow)
 - [Airflow](https://github.com/Kimuksung/Docker_Airflow)
-- [Kafka](https://github.com/Kimuksung/Kafka)
-- [ELK(Elasticserach&kibana&logstash)](https://github.com/Kimuksung/Kafka)   
+- [Amazon Redshift]
+- [MongoDB]
 
 📚 I’m currently preparing...   
-- MongoDB
-- Redshift
 - Spark
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
