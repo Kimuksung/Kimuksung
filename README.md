@@ -29,14 +29,14 @@ I work as a Data Engineer.
 
 💻 <b>Work Experiences</b>
 
-- Danal / 2021.02.01 - 2022.04.09
+- Danal / 2021.02 - 2022.04
   - Data labs, Payment info team - ETL and Develop payment service[Virtual Account,gift card,Paycoin,Credit Card,Kakaopay,Payco..]
     - Tech stacks
       - Mssql
       - Python
-- WClub / 2022.10.12 - working
+- WClub / 2022.10 - working
   - Data Engineer
-    - AWS Airflow,Redshift,S3,EMR
+    - AWS Infra operations
     - Building a Batch Pipeline
     - Teck stacks
       - Python
