@@ -21,6 +21,7 @@ I work as a Data Engineer.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>  
 
 📊 <b>GitHub Stats</b>   
 
@@ -35,14 +36,16 @@ I work as a Data Engineer.
       - Python
 - WClub / 2022.10.12 - working
   - Data Engineer
-    - Amazon Airflow,Redshift,S3 Environment setting
+    - AWS Airflow,Redshift,S3,EMR
     - Building a Batch Pipeline
     - Teck stacks
       - Python
       - MongoDB
+      - Mysql
       - Airflow
       - Amazon Redshift
       - Amazon S3
+      - Spark
 
 💻 <b>Other Experiences (Before Graduation)</b>
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
@@ -54,11 +57,11 @@ I work as a Data Engineer.
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
-- [Airflow](https://github.com/Kimuksung/Docker_Airflow)
-- [Amazon Redshift]
-- [MongoDB]
-
-📚 I’m currently preparing...   
 - Spark
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
+📚 I’m currently preparing...   
+- Kubernetes
+- 
+[![Tech Blog Badge](http://img.shields.io/badge/-mygithub-black?style=flat-square&logo=github&link=https://kimuksung.github.io/)](https://kimuksung.github.io/)
+
+[![2's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
