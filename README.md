@@ -35,7 +35,7 @@ I work as a Data Engineer.
       - Mssql
       - Python
 - WClub / 2022.10 - working
-  - Data Engineer
+  - Data Engineer, Tech Platform team
     - AWS Infra operations
     - Building a Batch Pipeline
     - Teck stacks
