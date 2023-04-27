@@ -5,8 +5,10 @@
 
 👋 <b>Hello, I am Uksung Kim (김욱성).</b>   
 
-👀 <b>Data Engineer</b>   
+👀 <b>Data Engineer</b> 
+
 I work as a Data Engineer.   
+
 
 💻 <b>Tech Stack&Interest</b>   
 
@@ -23,12 +25,10 @@ I work as a Data Engineer.
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>  
 
-📊 <b>GitHub Stats</b>   
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kimuksung)](https://github.com/Kimuksung)  
 </div>
 
 💻 <b>Work Experiences</b>
+
 - Danal / 2021.02.01 - 2022.04.09
   - Data labs, Payment info team - ETL and Develop payment service[Virtual Account,gift card,Paycoin,Credit Card,Kakaopay,Payco..]
     - Tech stacks
@@ -43,25 +43,33 @@ I work as a Data Engineer.
       - MongoDB
       - Mysql
       - Airflow
-      - Amazon Redshift
-      - Amazon S3
-      - Spark
+      - Aws Redshift
+      - Aws S3
+      - EMR(Spark)
 
 💻 <b>Other Experiences (Before Graduation)</b>
+
 - 우리피스 APP TESTER / 2021.11 ~ 2021.12
 
 🎓 <b>Educations</b>
+
 - [Department of Software, Korea Aerospace University](http://www.hangkong.ac.kr/web/index.do) - Bachelor's degree / Graduated
   - 2013.03 - 2021.02
 - Big data platform expert training course using Python and R
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
+
 - Spark
 
 📚 I’m currently preparing...   
-- Kubernetes
-- 
-[![Tech Blog Badge](http://img.shields.io/badge/-mygithub-black?style=flat-square&logo=github&link=https://kimuksung.github.io/)](https://kimuksung.github.io/)
 
-[![2's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://dortmoot.tistory.com/)
+- Kubernetes
+
+상세한 정보를 알고 싶다면?
+
+[![Tech Blog Badge](http://img.shields.io/badge/-githubio-black?style=flat-square&logo=github&link=https://kimuksung.github.io/)](https://kimuksung.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-포트폴리오-black?style=flat-square&logo=github&link=https://www.notion.so/resume-45a7c80083734a6689e2b391f25acbdc#23eb5d02355540b48cacfc1898b875c5)](https://www.notion.so/resume-45a7c80083734a6689e2b391f25acbdc#23eb5d02355540b48cacfc1898b875c5)
+
+📊 <b>GitHub Stats</b>   
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimuksung&count_private=true&include_all_commits=true&show_icons=true&hide=issues)]()
