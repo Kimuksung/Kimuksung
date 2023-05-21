@@ -45,7 +45,8 @@ I work as a Data Engineer.
       - Airflow
       - Aws Redshift
       - Aws S3
-      - EMR(Spark)
+      - AWS EMR(Spark)
+      - AWS RDS(Mysql)
 
 💻 <b>Other Experiences (Before Graduation)</b>
 
@@ -60,11 +61,11 @@ I work as a Data Engineer.
 
 🌱 <b>I’m currently learning...</b>    
 
-- Spark
+- Spark, Kubernetes
 
 📚 I’m currently preparing...   
 
-- Kubernetes
+- builing project with Kubernetes&Spark
 
 상세한 정보를 알고 싶다면?
 
@@ -73,3 +74,5 @@ I work as a Data Engineer.
 
 📊 <b>GitHub Stats</b>   
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimuksung&count_private=true&include_all_commits=true&show_icons=true&hide=issues)]()
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimuksung2)](https://solved.ac/kimuksung2)
