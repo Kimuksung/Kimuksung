@@ -12,19 +12,19 @@ I work as a Data Engineer.
 
 💻 <b>Tech Stack&Interest</b>   
 
+<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
+
+<!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>    
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>  
-
+<img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=Beats&logoColor=white"/></a> -->
 </div>
 
 💻 <b>Work Experiences</b>
@@ -39,14 +39,10 @@ I work as a Data Engineer.
     - AWS Infra operations
     - Building a Batch Pipeline
     - Teck stacks
+      - Aws Redshift, Airflow, EMR(Spark), RDS(Mysql), EC2, CodeDeploy, VPC, S3
       - Python
       - MongoDB
       - Mysql
-      - Airflow
-      - Aws Redshift
-      - Aws S3
-      - AWS EMR(Spark)
-      - AWS RDS(Mysql)
 
 💻 <b>Other Experiences (Before Graduation)</b>
 
@@ -60,17 +56,15 @@ I work as a Data Engineer.
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
-
-- Spark, Kubernetes
+- Spark, AWS EC2
 
 📚 I’m currently preparing...   
-
-- builing project with Kubernetes&Spark
+- Kubernetes
 
 상세한 정보를 알고 싶다면?
 
 [![Tech Blog Badge](http://img.shields.io/badge/-githubio-black?style=flat-square&logo=github&link=https://kimuksung.github.io/)](https://kimuksung.github.io/)
-[![Tech Blog Badge](http://img.shields.io/badge/-포트폴리오-black?style=flat-square&logo=github&link=https://www.notion.so/resume-45a7c80083734a6689e2b391f25acbdc#23eb5d02355540b48cacfc1898b875c5)](https://www.notion.so/resume-45a7c80083734a6689e2b391f25acbdc#23eb5d02355540b48cacfc1898b875c5)
+
 
 📊 <b>GitHub Stats</b>   
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimuksung&count_private=true&include_all_commits=true&show_icons=true&hide=issues)]()
