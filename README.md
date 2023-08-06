@@ -5,7 +5,6 @@
 
 👋 <b>Hello, I am Uksung Kim (김욱성).</b>   
 
-👀 <b>Data Engineer</b> 
 
 I work as a Data Engineer.   
 
@@ -36,13 +35,24 @@ I work as a Data Engineer.
       - Python
 - WClub / 2022.10 - working
   - Data Engineer, Tech Platform team
-    - AWS Infra operations
-    - Building a Batch Pipeline
-    - Teck stacks
-      - Aws Redshift, Airflow, EMR(Spark), RDS(Mysql), EC2, CodeDeploy, VPC, S3
-      - Python
-      - MongoDB
-      - Mysql
+    - AWS Data Analytics Infra operations
+      - Building a Batch Pipeline
+      - Automate CI/CD deployment environment
+      - Connecting outside the database, configuring and operating users and tables
+      - Teck stacks
+        - Aws Redshift, Airflow, EMR(Spark), RDS(Mysql), EC2, Docker, S3
+        - GitAction, CodeDeploy
+    - Design and Developent of Marketing Data and Log Taxonomy
+      - Building Access external marketing(meta, google, ..) data pipeline
+      - Development of Marketing Metrics Data Mart By user squad
+      - Taxonomy design and planning according to event occurence by hybrid env
+      - User Action Data to Segment Intergration
+    - Improved User Experince
+      - Improve signup loading time (10min -> 7min)
+      - Automation User Introduction comment
+      - Simple Introduct process
+      - Introduction Algorithm logic bug eliminate and improvement
+      - Verify Lost Introduction Data
 
 💻 <b>Other Experiences (Before Graduation)</b>
 
@@ -56,10 +66,10 @@ I work as a Data Engineer.
   - 2020.02 ~ 2020.07
 
 🌱 <b>I’m currently learning...</b>    
-- Spark, AWS EC2
+- Kubernetes
 
 📚 I’m currently preparing...   
-- Kubernetes
+- Spark, Hadoop
 
 상세한 정보를 알고 싶다면?
 
