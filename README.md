@@ -8,21 +8,40 @@
 현재 데이터 엔지니어로 재직중에 있습니다.
 
 💻 <b>기술 스택</b>   
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonwebservices&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white)
+![Pyspark](https://img.shields.io/badge/pyspark-E25A1C?style=plastic&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
 ![Amazon Redshift Badge](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=fff&style=plastic)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=Terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argocd-EF7B4D?style=plastic&logo=argo&logoColor=white)
 
 </div>
 
 👨🏻‍💻 <b>경력</b>
-- WClub / 2022.10 - working
+- 티오더 / 2024.01 - working
+  - FS팀, Data Engineer
+    - 100만건 이상의 서비스, 1억건 이상의 로그 데이터 실시간 수집 파이프라인 구성
+    - 대용량 데이터 처리 환경 구성
+    - 데이터 분석 환경 구축
+    - DataLakeHouse, DataMart 구축
+    - Medallion 아키텍처 설계 구성
+    - CI/CD 배포 자동화
+    - 로그 텍사노미 스키마 설계
+    - 전사 대시보드 구성
+    - 이슈 탐지 모니터링 및 알람 시스템 구성
+      
+    기술 스택
+    - AWS, Pyspark, Airflow, Kinesis, Firehose, Athena, S3, Iceberg, Kubernetes, Terraform, Flask, Cloudwatch, SNS, Amazon Q
+      
+- WClub / 2022.10 - 2024-01
   - 더블유클럽 사일로팀, Data Engineer
     - AWS 클라우드 데이터 플랫폼 구성
     - ELT, ETL 파이프라인 개발
